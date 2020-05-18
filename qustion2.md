@@ -1,5 +1,7 @@
-<!-- 2. Monitor Task:I will suggest two types of monitor system.1. AWS  Cloud watch, SNS, services to services on AWS cloud .2.  
-Pagerdute, to run on virtual or physical instances.
+<!-- #  
+Monitor Task:I will suggest two types of monitor system.
+1. AWS  Cloud watch, SNS, services to services on AWS cloud .
+2. Pagerdute, to run on virtual or physical instances.
 
 The challenges to monitor this type of service & spec is to configure a precision  alert system to avoid false positives alerts.
 
@@ -11,7 +13,7 @@ The challenges to monitor this type of service & spec is to configure a precisio
 5. Network Monitor if network device  are up or down. Monitor the amount of traffic per network device.
 6.Monitor the amount of ssl traffic per network device and the total in all devices.
 7.Netflow analyzer service to monitor SSL traffic better. 
-8. Monitor the ssl proxy service. -->
+8. Monitor the ssl proxy service. --> -->
 
 
 
